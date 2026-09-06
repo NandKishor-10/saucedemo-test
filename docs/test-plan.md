@@ -1,11 +1,11 @@
 # Swag Labs - QA Test Plan
 
-**Website:** [https://www.saucedemo.com/](https://www.saucedemo.com/) 
-<br> **Application:** Swag Labs E-commerce Website
-<br> **Testing Type:** Manual Exploratory + Functional Testing
-<br> **Automation:** Selenium WebDriver with JavaScript
-<br> **Prepared by:** Nand Kishor Gorain
-<br> **Date:** 5-Sept.-2026
+**Website:** [https://www.saucedemo.com/](https://www.saucedemo.com/)  
+**Application:** Swag Labs E-commerce Website  
+**Testing Type:** Manual Exploratory + Functional Testing  
+**Automation:** Selenium WebDriver with JavaScript  
+**Prepared by:** Nand Kishor Gorain  
+**Date:** 5-Sept.-2026
 
 ---
 
